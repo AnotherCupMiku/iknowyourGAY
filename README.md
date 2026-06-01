@@ -1,6 +1,6 @@
 <div align="center">
 
-# ${\textsf{\color{#3c76b3}" oh , newbie ! ~ "}}$
+# ${\textsf{\color{#3c76b3}" oh , newbie ! "}}$
 
 <img width="531" height="376" alt="1000030295" src="https://github.com/user-attachments/assets/0f595d75-007b-47dc-9a0c-d501f302c8ef" />
 
