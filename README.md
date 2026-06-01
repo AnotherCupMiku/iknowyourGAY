@@ -141,7 +141,7 @@ ${\textsf{\color{#3c76b3}" see ya later ,}}$
 ${\textsf{\color{#e0265f}newbie}}$
 ${\textsf{\color{#3c76b3}. "}}$
 
-[ i might remake or fix this if i feel like theres something off place or smth, so yeah. ]
+[ i might remake or fix this if i feel like theres something off place or smth. ]
 
 ═══════════════════════════
 
